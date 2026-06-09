@@ -47,3 +47,10 @@ betterttv.net
 7tv.io
 localizeapi.com
 klipy.com
+modrinth.com
+api.modrinth.com
+cdn.modrinth.com
+modrinth.gg
+docs.modrinth.com
+staging-api.modrinth.com
+support.modrinth.com
